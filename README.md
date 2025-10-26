@@ -34,4 +34,6 @@ Never, ever give up learning English, unless
 - 感谢 Github 对 action 和 Release 宽松的限制，使得本项目可以实现
 - 感谢 Youtobe-dl 提供的下载器，使得我们可以使用 Youtobe-dl 去下载喜欢的视频
 - 感谢 marvinpinto 提供的 workflow 脚本，使我可以便捷地上传多个 assets
+
 - 感谢 Rar 提供的软件，使我简化了分卷压缩包的创建
+- 1
